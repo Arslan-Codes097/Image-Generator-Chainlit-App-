@@ -20,9 +20,13 @@ A lightning-fast, conversational AI agent that generates highly detailed images.
 ## 📸 Screenshots
 
 - **AI Chat Interface**
- ![Chat UI](Screenshot%202026-08-09%20031302.png) 
+  ![Chat UI](.files/Screenshot%202026-08-09%20031302.png) 
 - **Generated Image Result** 
-![Generated Result](test.png) 
+  ![Generated Result](.files/test.png) 
+- **Example Generation 1**
+  ![Example 1](.files/4077d03e-35de-402d-9c94-4aadae50d158/0f6b2d7b-a4b5-4a55-ae85-8b6822e1870d.png)
+- **Example Generation 2**
+  ![Example 2](.files/4077d03e-35de-402d-9c94-4aadae50d158/ec33dbb2-6cae-44b8-a03d-04cf66c86fac.png)
 
 ---
 
