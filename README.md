@@ -12,6 +12,8 @@ A lightning-fast, conversational AI agent that generates highly detailed images.
 ## 🌐 Live Demo & Media
 
 - **Live App:** *(Deployment URL coming soon)*
+- **Demo Video:** [Watch on Loom](https://www.loom.com/share/f88a7d443ebe4040949c01b06aea11e2)
+
 
 ---
 
