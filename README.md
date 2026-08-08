@@ -23,7 +23,7 @@ A lightning-fast, conversational AI agent that generates highly detailed images.
 
 ### Generated Image Examples
 
-| Monkey Family in Forest | Futuristic City | Serene Lake |
+| Beautiful Scenery | A Porsche | A Futuristic Bugatti |
 | :---: | :---: | :---: |
 | ![Generated Result](.files/test.png) | ![Example 1](.files/4077d03e-35de-402d-9c94-4aadae50d158/0f6b2d7b-a4b5-4a55-ae85-8b6822e1870d.png) | ![Example 2](.files/4077d03e-35de-402d-9c94-4aadae50d158/ec33dbb2-6cae-44b8-a03d-04cf66c86fac.png) |
 
