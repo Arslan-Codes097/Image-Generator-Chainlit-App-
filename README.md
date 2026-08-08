@@ -17,9 +17,10 @@ A lightning-fast, conversational AI agent that generates highly detailed images.
 
 ## 📸 Screenshots
 
-| AI Chat & Prompt Enhancement | Generated Image Result |
-| :---: | :---: |
-| ![Chat UI](Screenshot%202026-08-09%20031302.png) | ![Generated Result](test.png) |
+- **AI Chat Interface**
+ ![Chat UI](Screenshot%202026-08-09%20031302.png) 
+- **Generated Image Result** 
+![Generated Result](test.png) 
 
 ---
 
