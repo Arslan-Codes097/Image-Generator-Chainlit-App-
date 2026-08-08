@@ -133,4 +133,4 @@ chainlit run app.py -w
 ## 👤 Author & Credits
 
 **Developed by [@Arslan-Codes097](https://github.com/Arslan-Codes097)**  
-*Built during an internship project using Chainlit, Groq, and Hugging Face.*
+*Built project using Chainlit, Groq, and Hugging Face.*
